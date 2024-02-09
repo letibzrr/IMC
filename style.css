@@ -1,7 +1,9 @@
 body{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
+    margin-top: 150px;
     font-family: 'Times New Roman', Times, serif;
 }
 .title{
